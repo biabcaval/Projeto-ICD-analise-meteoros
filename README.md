@@ -1,5 +1,6 @@
 ## Pouso de Meteoritos no Planeta Terra  
-Projeto de Análise de Dados para a disciplina de Introdução à Ciência de Dados - Semestre 2022.2
+Projeto de Análise de Dados para a disciplina de Introdução à Ciência de Dados - Semestre 2022.2,
+orientado pelo Prof. Dr. Yuri Malheiros
 ### Integrantes
 As participantes deste projeto são:
 1. Beatriz Barreto
@@ -13,5 +14,5 @@ As participantes deste projeto são:
 * Entre os meteoros registrados, quais atingiram a Terra com maior força de impacto?
 ### Referências
 - [Meteorite Landings](https://www.kaggle.com/datasets/nasa/meteorite-landings)
-- [Fireballs and Bolide Reports](https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum)
+- [Fireball and Bolide Reports](https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum)
 - [Meteorite Landings on Earth](https://www.kaggle.com/datasets/brllrb/meteorite-landings)
