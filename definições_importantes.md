@@ -26,9 +26,12 @@ Do grego antigo, "Celestial phenomena, coisas no céu acima".
 
 - Meteorito:
   - O meteoro após atingir o chão do planeta terra. 
+  
+![Poster ilustrativo das definições de Cometa, Asteroide, Meteoroide, Chuva de Meteoros, Meteoro, Fireball (Bola de Fogo), Bólido, Meteorito ](https://press.exoss.org/wp-content/uploads/2015/08/AMS-TERMINOLOGY-2015-PT_BR-BRAZILIAN-PORTUGUESE.jpg)
 
 ### Referências
 
 - https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/overview/?page=0&per_page=40&order=id+asc&search=&condition_1=meteor_shower%3Abody_type
 - https://earthhow.com/meteors-meteoroids-meteorites-differences/
 - https://www.ufmg.br/espacodoconhecimento/asteroides-e-meteoros/#:~:text=A%20maioria%20dos%20meteoros%20%C3%A9,sobre%20o%20nosso%20Sistema%20Solar
+- https://press.exoss.org/download__trashed/terminologia-meteoros/
