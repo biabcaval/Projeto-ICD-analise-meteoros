@@ -10,6 +10,7 @@ As participantes deste projeto são:
 É proposta uma exploração de datasets sobre o tema "Pouso de meteoritos na Terra". A partir dessa análise, considerando o intervalo de tempo dos registros obtidos, propõe-se buscar respostas para as perguntas:
 * Quais os maiores meteoros a atingirem a Terra?
 * Qual a média anual de meteoritos a atingirem o planeta?
+* Há alguma relação entre a massa e o ano em que o meteorito foi encontrado?
 * Quais áreas do planeta são mais atingidas por meteoros?
 * Entre os meteoros registrados, quais atingiram a Terra com maior energia de impacto?
 * Quais as velocidades mais frequentes dos meteoros?
